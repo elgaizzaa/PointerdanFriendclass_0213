@@ -15,7 +15,10 @@ class PersegiPanjang
  {
     public :
     int tinggi, alas;
-
+     int LuasSegitiga(int a, int t)
+    {
+            return 0.5*a*t;
+    }
    
 
  };
