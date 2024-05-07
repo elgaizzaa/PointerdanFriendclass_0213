@@ -29,6 +29,16 @@ class PersegiPanjang
  {
     PersegiPanjang pp;
       segitiga sg;
- }
+      cout << "masukan Panjang: ";
+      cin >> "pp.Panjang: ";
+     cout << "masukan Lebar :";
+     cin >> "pp.Lebar: ";
+     cout << "masukan tinggi: ";
+     cin >> "sg.tinggi: ";
+     cout <<"masukan alas:";
+     cin >>"sg.alas: ";
+     cout <<"luas Persegi Panjang :" << pp.LuasPersegiPanjang(pp.Panjang,pp.Lebar)<<endl;
+     cout << "Luas Segitiga: " << sg. LuasSegitiga (sg.alas,sg.tinggi) <<endl;
+ };
  
  
