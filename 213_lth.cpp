@@ -24,5 +24,10 @@ class PersegiPanjang
         return p.Panjang;
     }
  };
+
+ int main()
+ {
+    
+ }
  
  
