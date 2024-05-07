@@ -28,7 +28,7 @@ class PersegiPanjang
  int main()
  {
     PersegiPanjang pp;
-  
+      segitiga sg;
  }
  
  
