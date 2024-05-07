@@ -11,3 +11,11 @@ class PersegiPanjang
     }
  };
 
+ class segitiga
+ {
+    public :
+    
+    
+
+ };
+ 
