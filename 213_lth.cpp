@@ -14,8 +14,9 @@ class PersegiPanjang
  class segitiga
  {
     public :
-    
-    
+    int tinggi, alas;
+
+   
 
  };
  
