@@ -40,5 +40,7 @@ class PersegiPanjang
      cout <<"luas Persegi Panjang :" << pp.LuasPersegiPanjang(pp.Panjang,pp.Lebar)<<endl;
      cout << "Luas Segitiga: " << sg. LuasSegitiga (sg.alas,sg.tinggi) <<endl;
  };
+
+ 
  
  
